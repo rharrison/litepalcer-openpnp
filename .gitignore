@@ -2,3 +2,4 @@
 !.gitignore
 !machine.xml
 !README.md
+!scripts/*
