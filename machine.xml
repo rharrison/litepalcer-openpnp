@@ -241,7 +241,7 @@
             <sum-of-errors value="0.5966293415179198" units="Millimeters"/>
             <sum-of-error-squares value="0.28575200176115356" units="Millimeters"/>
          </feeder>
-         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a1173eb8b3fcc0" name="ReferencePushPullFeeder" enabled="true" part-id="R_0603_1608Metric-470" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" peel-off-actuator-name="" feed-count="5" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="5" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
+         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a1173eb8b3fcc0" name="ReferencePushPullFeeder" enabled="true" part-id="R_0603_1608Metric-100" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" peel-off-actuator-name="" feed-count="5" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="5" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
             <location units="Millimeters" x="345.0730316969804" y="46.88227364750304" z="-26.5" rotation="88.9494677987757"/>
             <hole-1-location units="Millimeters" x="341.6102884346654" y="48.946107240429555" z="0.0" rotation="0.0"/>
             <hole-2-location units="Millimeters" x="341.68362530866233" y="52.94543489678786" z="0.0" rotation="0.0"/>
@@ -393,7 +393,7 @@
             <sum-of-errors value="0.5865851213292028" units="Millimeters"/>
             <sum-of-error-squares value="0.11070807315744265" units="Millimeters"/>
          </feeder>
-         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a11bf5a04017a8" name="ReferencePushPullFeeder" enabled="false" part-id="C_0402_1005Metric-0.1uF" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" feed-count="0" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="0" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
+         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a11bf5a04017a8" name="ReferencePushPullFeeder" enabled="true" part-id="C_0402_1005Metric-0.1uF" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" feed-count="0" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="0" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
             <location units="Millimeters" x="174.07475280731038" y="47.28410867793879" z="-26.5" rotation="89.80602746254046"/>
             <hole-1-location units="Millimeters" x="170.5815437705688" y="49.295946302009625" z="0.0" rotation="0.0"/>
             <hole-2-location units="Millimeters" x="170.59508558244934" y="53.29592337936032" z="0.0" rotation="0.0"/>
@@ -431,7 +431,7 @@
             <sum-of-errors value="0.0" units="Millimeters"/>
             <sum-of-error-squares value="0.0" units="Millimeters"/>
          </feeder>
-         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a11c228b8e863c" name="ReferencePushPullFeeder" enabled="false" part-id="C_0402_1005Metric-1uF" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" feed-count="0" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="0" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
+         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a11c228b8e863c" name="ReferencePushPullFeeder" enabled="true" part-id="C_0402_1005Metric-1uF" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" feed-count="0" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="0" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
             <location units="Millimeters" x="152.19032554045165" y="46.87712017133094" z="-26.5" rotation="89.78009341446051"/>
             <hole-1-location units="Millimeters" x="148.69802748869196" y="48.89053873627847" z="0.0" rotation="0.0"/>
             <hole-2-location units="Millimeters" x="148.7133798268574" y="52.89050927438407" z="0.0" rotation="0.0"/>
@@ -441,6 +441,82 @@
             <feed-mid-3-location units="Millimeters" x="151.40777729703973" y="23.293478445977538" z="-21.7" rotation="-0.9361883458305016"/>
             <feed-end-location units="Millimeters" x="151.13181900205254" y="9.236186849819049" z="-21.7" rotation="-0.9361883458305016"/>
             <part-pitch value="2.0" units="Millimeters"/>
+            <feed-pitch value="4.0" units="Millimeters"/>
+            <feed-speed-push-1>1.0</feed-speed-push-1>
+            <pipeline>
+               <stages>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageRead" name="00" enabled="false" file="test.png" color-space="Bgr"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageCapture" name="0" enabled="true" default-light="true" settle-first="true" count="1"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.BlurGaussian" name="1" enabled="true" kernel-size="5"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.AffineWarp" name="11" enabled="true" length-unit="Millimeters" x-0="0.0" y-0="0.0" x-1="0.0" y-1="0.0" x-2="0.0" y-2="0.0" scale="1.0" rectify="true" region-of-interest-property="regionOfInterest"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ConvertColor" name="12" enabled="true" conversion="Bgr2Gray"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.HistogramEqualizeAdaptive" name="13" enabled="false" channels-to-equalize="First" clip-limit="2.0" number-of-tile-rows="1" number-of-tile-cols="1"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.SimpleOcr" name="OCR" enabled="true" alphabet="0123456789.-+_RCLDQYXJIVAFH%GMKkmuÂµnp" font-name="Liberation Mono" font-size-pt="7.0" font-max-pixel-size="20" auto-detect-size="false" threshold="0.75" draw-style="OverOriginalImage" debug="false"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageRecall" name="20" enabled="true" image-stage-name="1"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.MaskCircle" name="21" enabled="true" diameter="900"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ConvertColor" name="22" enabled="true" conversion="Bgr2HsvFull"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.Normalize" name="23" enabled="false"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.MaskHsv" name="24" enabled="true" auto="false" fraction-to-mask="0.0" hue-min="240" hue-max="130" saturation-min="110" saturation-max="255" value-min="10" value-max="255" invert="false" binary-mask="true"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.BlurMedian" name="25" enabled="true" kernel-size="13"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.FindContours" name="27" enabled="true" retrieval-mode="List" approximation-method="Simple"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.FilterContours" name="28" enabled="true" contours-stage-name="27" min-area="1000.0" max-area="100000.0"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.FitEllipseContours" name="results" enabled="true" contours-stage-name="28"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageRecall" name="30" enabled="true" image-stage-name="0"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.DrawEllipses" name="31" enabled="true" ellipses-stage-name="results" thickness="2"/>
+               </stages>
+            </pipeline>
+            <precision-wanted value="0.1" units="Millimeters"/>
+            <sum-of-errors value="0.0" units="Millimeters"/>
+            <sum-of-error-squares value="0.0" units="Millimeters"/>
+         </feeder>
+         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a13f3670049398" name="ReferencePushPullFeeder" enabled="true" part-id="LED_0603_1608Metric-Red" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" feed-count="0" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="0" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
+            <location units="Millimeters" x="87.9909123971093" y="47.224831463079866" z="-26.5" rotation="89.63928959655424"/>
+            <hole-1-location units="Millimeters" x="84.5035728422446" y="49.2468262279287" z="0.0" rotation="0.0"/>
+            <hole-2-location units="Millimeters" x="84.52875501264252" y="53.24674695943002" z="0.0" rotation="0.0"/>
+            <feed-start-location units="Millimeters" x="87.45936646379782" y="10.422076487653683" z="-21.7" rotation="-0.8710833720672753"/>
+            <feed-mid-1-location units="Millimeters" x="88.58035237915439" y="11.728185433175547" z="-12.0" rotation="-0.8710833720672753"/>
+            <feed-mid-2-location units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+            <feed-mid-3-location units="Millimeters" x="87.66004193522349" y="23.620550996291726" z="-21.7" rotation="-0.8710833720672753"/>
+            <feed-end-location units="Millimeters" x="87.4462921527807" y="9.562175875727263" z="-21.7" rotation="-0.8710833720672753"/>
+            <part-pitch value="4.0" units="Millimeters"/>
+            <feed-pitch value="4.0" units="Millimeters"/>
+            <feed-speed-push-1>1.0</feed-speed-push-1>
+            <pipeline>
+               <stages>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageRead" name="00" enabled="false" file="test.png" color-space="Bgr"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageCapture" name="0" enabled="true" default-light="true" settle-first="true" count="1"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.BlurGaussian" name="1" enabled="true" kernel-size="5"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.AffineWarp" name="11" enabled="true" length-unit="Millimeters" x-0="0.0" y-0="0.0" x-1="0.0" y-1="0.0" x-2="0.0" y-2="0.0" scale="1.0" rectify="true" region-of-interest-property="regionOfInterest"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ConvertColor" name="12" enabled="true" conversion="Bgr2Gray"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.HistogramEqualizeAdaptive" name="13" enabled="false" channels-to-equalize="First" clip-limit="2.0" number-of-tile-rows="1" number-of-tile-cols="1"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.SimpleOcr" name="OCR" enabled="true" alphabet="0123456789.-+_RCLDQYXJIVAFH%GMKkmuÂµnp" font-name="Liberation Mono" font-size-pt="7.0" font-max-pixel-size="20" auto-detect-size="false" threshold="0.75" draw-style="OverOriginalImage" debug="false"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageRecall" name="20" enabled="true" image-stage-name="1"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.MaskCircle" name="21" enabled="true" diameter="900"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ConvertColor" name="22" enabled="true" conversion="Bgr2HsvFull"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.Normalize" name="23" enabled="false"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.MaskHsv" name="24" enabled="true" auto="false" fraction-to-mask="0.0" hue-min="240" hue-max="130" saturation-min="110" saturation-max="255" value-min="10" value-max="255" invert="false" binary-mask="true"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.BlurMedian" name="25" enabled="true" kernel-size="13"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.FindContours" name="27" enabled="true" retrieval-mode="List" approximation-method="Simple"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.FilterContours" name="28" enabled="true" contours-stage-name="27" min-area="1000.0" max-area="100000.0"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.FitEllipseContours" name="results" enabled="true" contours-stage-name="28"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.ImageRecall" name="30" enabled="true" image-stage-name="0"/>
+                  <cv-stage class="org.openpnp.vision.pipeline.stages.DrawEllipses" name="31" enabled="true" ellipses-stage-name="results" thickness="2"/>
+               </stages>
+            </pipeline>
+            <precision-wanted value="0.1" units="Millimeters"/>
+            <sum-of-errors value="0.0" units="Millimeters"/>
+            <sum-of-error-squares value="0.0" units="Millimeters"/>
+         </feeder>
+         <feeder class="org.openpnp.machine.reference.feeder.ReferencePushPullFeeder" version="1.1" id="FDR16a13f59d8f297ec" name="ReferencePushPullFeeder" enabled="true" part-id="LED_0603_1608Metric-Green" retry-count="3" feed-retry-count="3" pick-retry-count="0" rotation-in-feeder="90.0" normalize-pick-location="true" snap-to-axis="false" used-as-template="false" feed-multiplier="1" feed-speed-push-2="1.0" feed-speed-push-3="1.0" feed-speed-push-end="0.2" feed-speed-pull-3="0.2" feed-speed-pull-2="1.0" feed-speed-pull-1="1.0" feed-speed-pull-0="1.0" included-push-1="false" included-push-2="false" included-push-3="false" included-push-end="true" included-multi-0="true" included-multi-1="false" included-multi-2="false" included-multi-3="true" included-multi-end="true" included-pull-0="true" included-pull-1="false" included-pull-2="false" included-pull-3="true" actuator-name="Push_Pull" feed-count="0" ocr-font-name="Liberation Mono" ocr-font-size-pt="7.0" ocr-wrong-part-action="None" ocr-discover-on-job-start="false" ocr-stop-after-wrong-part="false" calibration-count="0" calibration-tolerance-mm="1.95" sprocket-hole-tolerance-mm="0.4" row-location-tolerance-mm="4.0" row-Z-location-tolerance-mm="1.0" calibrate-max-passes="3" calibrate-tolerance-mm="0.3" calibrate-min-statistic="2" calibration-trigger="UntilConfident">
+            <location units="Millimeters" x="109.25434058094856" y="47.06909680873616" z="-26.5" rotation="90.25182107013552"/>
+            <hole-1-location units="Millimeters" x="105.74558420028126" y="49.053694667529335" z="0.0" rotation="0.0"/>
+            <hole-2-location units="Millimeters" x="105.72800382968225" y="53.05365603366396" z="0.0" rotation="0.0"/>
+            <feed-start-location units="Millimeters" x="109.30247316480394" y="10.368625191004682" z="-21.7" rotation="0.8508696115017926"/>
+            <feed-mid-1-location units="Millimeters" x="110.40393984627846" y="11.69123667953847" z="-12.0" rotation="0.8508696115017926"/>
+            <feed-mid-2-location units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+            <feed-mid-3-location units="Millimeters" x="109.30713008083157" y="23.568624369532433" z="-21.7" rotation="0.8508696115017926"/>
+            <feed-end-location units="Millimeters" x="109.30216975966881" y="9.508625244524843" z="-21.7" rotation="0.8508696115017926"/>
+            <part-pitch value="4.0" units="Millimeters"/>
             <feed-pitch value="4.0" units="Millimeters"/>
             <feed-speed-push-1>1.0</feed-speed-push-1>
             <pipeline>
@@ -672,7 +748,7 @@
                   </part-settings>
                </entry>
                <entry>
-                  <string>LED_0603_1608Metric-3.3v</string>
+                  <string>R_0603_1608Metric-100</string>
                   <part-settings enabled="false" pre-rotate-usage="Default" check-part-size-method="Disabled" check-size-tolerance-percent="20" max-rotation="Adjust">
                      <vision-offset units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
                      <pipeline>
@@ -701,8 +777,8 @@
                   </part-settings>
                </entry>
                <entry>
-                  <string>LED_0603_1608Metric-Info</string>
-                  <part-settings enabled="false" pre-rotate-usage="Default" check-part-size-method="Disabled" check-size-tolerance-percent="20" max-rotation="Adjust">
+                  <string>LED_0603_1608Metric-Red</string>
+                  <part-settings enabled="true" pre-rotate-usage="Default" check-part-size-method="Disabled" check-size-tolerance-percent="20" max-rotation="Adjust">
                      <vision-offset units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
                      <pipeline>
                         <stages>
@@ -1049,7 +1125,7 @@
                   </part-settings>
                </entry>
                <entry>
-                  <string>R_0603_1608Metric-12K</string>
+                  <string>LED_0603_1608Metric-Green</string>
                   <part-settings enabled="false" pre-rotate-usage="Default" check-part-size-method="Disabled" check-size-tolerance-percent="20" max-rotation="Adjust">
                      <vision-offset units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
                      <pipeline>
@@ -1078,7 +1154,7 @@
                   </part-settings>
                </entry>
                <entry>
-                  <string>R_0603_1608Metric-470</string>
+                  <string>R_0603_1608Metric-12K</string>
                   <part-settings enabled="false" pre-rotate-usage="Default" check-part-size-method="Disabled" check-size-tolerance-percent="20" max-rotation="Adjust">
                      <vision-offset units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
                      <pipeline>
@@ -2089,7 +2165,7 @@
                </part-settings>
             </entry>
             <entry>
-               <string>LED_0603_1608Metric-3.3v</string>
+               <string>R_0603_1608Metric-100</string>
                <part-settings enabled="false">
                   <pipeline>
                      <stages>
@@ -2114,7 +2190,7 @@
                </part-settings>
             </entry>
             <entry>
-               <string>LED_0603_1608Metric-Info</string>
+               <string>LED_0603_1608Metric-Red</string>
                <part-settings enabled="false">
                   <pipeline>
                      <stages>
@@ -2414,7 +2490,7 @@
                </part-settings>
             </entry>
             <entry>
-               <string>R_0603_1608Metric-12K</string>
+               <string>LED_0603_1608Metric-Green</string>
                <part-settings enabled="false">
                   <pipeline>
                      <stages>
@@ -2439,7 +2515,7 @@
                </part-settings>
             </entry>
             <entry>
-               <string>R_0603_1608Metric-470</string>
+               <string>R_0603_1608Metric-12K</string>
                <part-settings enabled="false">
                   <pipeline>
                      <stages>
